@@ -54,7 +54,7 @@ This project explores how computer vision can create a reliable, automated, and 
 - Python
 - OpenCV
 - PyTorch
-- YOLO (object detection)
+- (object detection)
 - OCR model (Tesseract / CRNN / EasyOCR)
 - NumPy / Pandas
 
